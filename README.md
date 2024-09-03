@@ -14,11 +14,13 @@ To start data collection, I wrote a script (screenshot.py) which would take a sc
 ## Annotate
 To annotate I used Roboflow's labeling tool and drew a box around T's and CT's for roughly 100 images. I know what you are thinking! Only 100? Yeah... I was lazy.
 
-![Example annotation](https://github.com/SamSkinner01/cs2-od/raw/master/image.png)
+![Example annotation](https://github.com/SamSkinner01/cs2-od/raw/main/image.png)
 
 ## Train
 Performed transfer learning on a YoloV9 model with these 100 images for 25 epochs. 
 
 ## Test
 Here is an example of the output gif. You can tell that it struggles, but for only 100 images and very little of my time it is very impressive. Lots of room for improvement.
-![Output gif](https://github.com/SamSkinner01/cs2-od/raw/master/image.png)
+
+
+![Output gif](https://github.com/SamSkinner01/cs2-od/raw/main/image.png)
