@@ -23,4 +23,4 @@ Performed transfer learning on a YoloV9 model with these 100 images for 25 epoch
 Here is an example of the output gif. You can tell that it struggles, but for only 100 images and very little of my time it is very impressive. Lots of room for improvement.
 
 
-![Output gif](https://github.com/SamSkinner01/cs2-od/raw/main/image.png)
+![Output gif](https://github.com/SamSkinner01/cs2-od/raw/main/output.gif)
